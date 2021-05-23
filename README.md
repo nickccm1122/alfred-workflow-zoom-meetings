@@ -1,4 +1,9 @@
 # Join Zoom Meeting – An [Alfred](https://www.alfredapp.com/) Workflow
+
+### v1.3.0
+
+Change the workflow input to a list filter so that we can provide custom predefined zoom links from manual input or csv
+
 ### v1.2.1
 
 [![License: MIT](https://img.shields.io/github/license/aurooba/alfred-workflow-zoom-meetings)](https://opensource.org/licenses/MIT)
